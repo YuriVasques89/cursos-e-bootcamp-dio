@@ -1,0 +1,8 @@
+Tópicos do Curso: 
+- Pensamento Computacional
+- Lógica
+- Tipos de Variáveis
+- Estruturas condicionais e de repetição
+- Intro as linguagens de programação
+- Portugol
+- Quiz de Encerramento
